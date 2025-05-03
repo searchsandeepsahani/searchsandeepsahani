@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React , Python with ML , Use Ai in Programming**
 
-- 📑 I'm Completed a Website [Colour Trading Game](https://colourtradingapp.wap.app/)
+- 📑 I'm Completed a Website [Colour Trading Game](https://colourtradingapp.web.app/)
 
 - 📝 I regularly write articles on [https://ssmoneycollect.blogspot.com/](https://ssmoneycollect.blogspot.com/)
 
